@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">hw_28_03_25</string>
+    <string name="description1" tools:ignore="TypographyEllipsis">My cat thinks it owns the place. And... it does.</string>
+    <string name="description2">Caught in the act of being adorably lazy.</string>
+    <string name="description3">When life gives you paws, take a nap.</string>
+    <string name="description4" tools:ignore="TypographyEllipsis">They said I was a wild cat... they didn’t know how much I love my couch.</string>
+</resources>
